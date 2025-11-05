@@ -17,8 +17,3 @@ O exercício apresenta três abordagens:
 1. **Não sincronizada** (com race condition)
 2. **Com lock** 
 3. **Com Interlocked**
-
-## 🚀 Como Executar
-```bash
-cd Exercicio-1-Contador-Paralelo
-dotnet run
