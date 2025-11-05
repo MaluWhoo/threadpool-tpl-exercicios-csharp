@@ -30,10 +30,3 @@ Cada pasta contém a implementação de um exercício específico:
 3. Paralelismo de dados com Parallel.For/ForEach
 4. Controle de estado compartilhado e race conditions
 5. Sincronização com lock e Interlocked
-
-## 🚀 Como Executar
-
-Cada exercício é independente. Navegue até a pasta do exercício desejado e execute:
-
-```bash
-dotnet run
