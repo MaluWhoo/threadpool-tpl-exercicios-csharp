@@ -1,0 +1,8 @@
+C:\Users\luiza\source\repos\ExercicioSimuladorDeParticulas\ExercicioSimuladorDeParticulas\obj\Debug\ExercicioSimuladorDeParticulas.csproj.AssemblyReference.cache
+C:\Users\luiza\source\repos\ExercicioSimuladorDeParticulas\ExercicioSimuladorDeParticulas\obj\Debug\ExercicioSimuladorDeParticulas.csproj.CoreCompileInputs.cache
+C:\Users\luiza\source\repos\ExercicioSimuladorDeParticulas\ExercicioSimuladorDeParticulas\bin\Debug\ExercicioSimuladorDeParticulas.exe.config
+C:\Users\luiza\source\repos\ExercicioSimuladorDeParticulas\ExercicioSimuladorDeParticulas\bin\Debug\ExercicioSimuladorDeParticulas.exe
+C:\Users\luiza\source\repos\ExercicioSimuladorDeParticulas\ExercicioSimuladorDeParticulas\bin\Debug\ExercicioSimuladorDeParticulas.pdb
+C:\Users\luiza\source\repos\ExercicioSimuladorDeParticulas\ExercicioSimuladorDeParticulas\obj\Debug\ExercicioSimuladorDeParticulas.exe
+C:\Users\luiza\source\repos\ExercicioSimuladorDeParticulas\ExercicioSimuladorDeParticulas\obj\Debug\ExercicioSimuladorDeParticulas.pdb
+C:\Users\luiza\source\repos\ExercicioSimuladorDeParticulas\ExercicioSimuladorDeParticulas\obj\Debug\ExercicioSimuladorDeParticulas.exe.config
