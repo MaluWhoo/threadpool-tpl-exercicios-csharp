@@ -1,0 +1,8 @@
+C:\Users\luiza\source\repos\ExercicioContadorInimigo\ExercicioContadorInimigo\obj\Debug\ExercicioContadorInimigo.csproj.AssemblyReference.cache
+C:\Users\luiza\source\repos\ExercicioContadorInimigo\ExercicioContadorInimigo\obj\Debug\ExercicioContadorInimigo.csproj.CoreCompileInputs.cache
+C:\Users\luiza\source\repos\ExercicioContadorInimigo\ExercicioContadorInimigo\bin\Debug\ExercicioContadorInimigo.exe.config
+C:\Users\luiza\source\repos\ExercicioContadorInimigo\ExercicioContadorInimigo\bin\Debug\ExercicioContadorInimigo.exe
+C:\Users\luiza\source\repos\ExercicioContadorInimigo\ExercicioContadorInimigo\bin\Debug\ExercicioContadorInimigo.pdb
+C:\Users\luiza\source\repos\ExercicioContadorInimigo\ExercicioContadorInimigo\obj\Debug\ExercicioContadorInimigo.exe
+C:\Users\luiza\source\repos\ExercicioContadorInimigo\ExercicioContadorInimigo\obj\Debug\ExercicioContadorInimigo.pdb
+C:\Users\luiza\source\repos\ExercicioContadorInimigo\ExercicioContadorInimigo\obj\Debug\ExercicioContadorInimigo.exe.config

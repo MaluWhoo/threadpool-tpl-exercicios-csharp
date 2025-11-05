@@ -1,0 +1,8 @@
+C:\Users\luiza\source\repos\ExercicioAtualizacaoBonusBuffs\ExercicioAtualizacaoBonusBuffs\bin\Debug\ExercicioAtualizacaoBonusBuffs.exe.config
+C:\Users\luiza\source\repos\ExercicioAtualizacaoBonusBuffs\ExercicioAtualizacaoBonusBuffs\bin\Debug\ExercicioAtualizacaoBonusBuffs.exe
+C:\Users\luiza\source\repos\ExercicioAtualizacaoBonusBuffs\ExercicioAtualizacaoBonusBuffs\bin\Debug\ExercicioAtualizacaoBonusBuffs.pdb
+C:\Users\luiza\source\repos\ExercicioAtualizacaoBonusBuffs\ExercicioAtualizacaoBonusBuffs\obj\Debug\ExercicioAtualizacaoBonusBuffs.csproj.AssemblyReference.cache
+C:\Users\luiza\source\repos\ExercicioAtualizacaoBonusBuffs\ExercicioAtualizacaoBonusBuffs\obj\Debug\ExercicioAtualizacaoBonusBuffs.csproj.CoreCompileInputs.cache
+C:\Users\luiza\source\repos\ExercicioAtualizacaoBonusBuffs\ExercicioAtualizacaoBonusBuffs\obj\Debug\ExercicioAtualizacaoBonusBuffs.exe
+C:\Users\luiza\source\repos\ExercicioAtualizacaoBonusBuffs\ExercicioAtualizacaoBonusBuffs\obj\Debug\ExercicioAtualizacaoBonusBuffs.pdb
+C:\Users\luiza\source\repos\ExercicioAtualizacaoBonusBuffs\ExercicioAtualizacaoBonusBuffs\obj\Debug\ExercicioAtualizacaoBonusBuffs.exe.config
