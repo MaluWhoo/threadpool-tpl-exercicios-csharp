@@ -4,7 +4,7 @@
 Simulação de processamento de imagens utilizando `Parallel.For` para demonstrar paralelismo de dados.
 
 ## 🎯 Objetivo
-Mostrar como paralelizar operações em arrays grandes usando `Parallel.For`.
+Comparação entre usar um loop `sequencial` (for i ...) e um `paralelo` (Parallel.ForEach).
 
 ## ⚡ Conceitos Utilizados
 - `Parallel.For`
@@ -15,9 +15,3 @@ Mostrar como paralelizar operações em arrays grandes usando `Parallel.For`.
 Compara o tempo de execução entre:
 - Processamento sequencial
 - Processamento paralelo
-
-## 🚀 Como Executar
-```bash
-cd Exercicio-2-Processador-Imagem
-dotnet run
-```
