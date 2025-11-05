@@ -1,0 +1,8 @@
+C:\Users\luiza\source\repos\ExercicioContadorParalelo\ExercicioContadorParalelo\bin\Debug\ExercicioContadorParalelo.exe.config
+C:\Users\luiza\source\repos\ExercicioContadorParalelo\ExercicioContadorParalelo\bin\Debug\ExercicioContadorParalelo.exe
+C:\Users\luiza\source\repos\ExercicioContadorParalelo\ExercicioContadorParalelo\bin\Debug\ExercicioContadorParalelo.pdb
+C:\Users\luiza\source\repos\ExercicioContadorParalelo\ExercicioContadorParalelo\obj\Debug\ExercicioContadorParalelo.csproj.AssemblyReference.cache
+C:\Users\luiza\source\repos\ExercicioContadorParalelo\ExercicioContadorParalelo\obj\Debug\ExercicioContadorParalelo.csproj.CoreCompileInputs.cache
+C:\Users\luiza\source\repos\ExercicioContadorParalelo\ExercicioContadorParalelo\obj\Debug\ExercicioContadorParalelo.exe
+C:\Users\luiza\source\repos\ExercicioContadorParalelo\ExercicioContadorParalelo\obj\Debug\ExercicioContadorParalelo.pdb
+C:\Users\luiza\source\repos\ExercicioContadorParalelo\ExercicioContadorParalelo\obj\Debug\ExercicioContadorParalelo.exe.config
