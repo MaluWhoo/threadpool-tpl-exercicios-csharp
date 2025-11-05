@@ -1,0 +1,8 @@
+C:\Users\luiza\source\repos\ExercicioProcessadorDeImgFalso\ExercicioProcessadorDeImgFalso\bin\Debug\ExercicioProcessadorDeImgFalso.exe.config
+C:\Users\luiza\source\repos\ExercicioProcessadorDeImgFalso\ExercicioProcessadorDeImgFalso\bin\Debug\ExercicioProcessadorDeImgFalso.exe
+C:\Users\luiza\source\repos\ExercicioProcessadorDeImgFalso\ExercicioProcessadorDeImgFalso\bin\Debug\ExercicioProcessadorDeImgFalso.pdb
+C:\Users\luiza\source\repos\ExercicioProcessadorDeImgFalso\ExercicioProcessadorDeImgFalso\obj\Debug\ExercicioProcessadorDeImgFalso.csproj.AssemblyReference.cache
+C:\Users\luiza\source\repos\ExercicioProcessadorDeImgFalso\ExercicioProcessadorDeImgFalso\obj\Debug\ExercicioProcessadorDeImgFalso.csproj.CoreCompileInputs.cache
+C:\Users\luiza\source\repos\ExercicioProcessadorDeImgFalso\ExercicioProcessadorDeImgFalso\obj\Debug\ExercicioProcessadorDeImgFalso.exe
+C:\Users\luiza\source\repos\ExercicioProcessadorDeImgFalso\ExercicioProcessadorDeImgFalso\obj\Debug\ExercicioProcessadorDeImgFalso.pdb
+C:\Users\luiza\source\repos\ExercicioProcessadorDeImgFalso\ExercicioProcessadorDeImgFalso\obj\Debug\ExercicioProcessadorDeImgFalso.exe.config
