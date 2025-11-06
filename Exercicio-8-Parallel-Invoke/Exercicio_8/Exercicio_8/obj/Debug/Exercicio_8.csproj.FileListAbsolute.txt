@@ -1,0 +1,15 @@
+C:\Users\luiza\source\repos\Exercicio_8\Exercicio_8\bin\Debug\Exercicio_8.exe.config
+C:\Users\luiza\source\repos\Exercicio_8\Exercicio_8\bin\Debug\Exercicio_8.exe
+C:\Users\luiza\source\repos\Exercicio_8\Exercicio_8\bin\Debug\Exercicio_8.pdb
+C:\Users\luiza\source\repos\Exercicio_8\Exercicio_8\obj\Debug\Exercicio_8.csproj.AssemblyReference.cache
+C:\Users\luiza\source\repos\Exercicio_8\Exercicio_8\obj\Debug\Exercicio_8.csproj.CoreCompileInputs.cache
+C:\Users\luiza\source\repos\Exercicio_8\Exercicio_8\obj\Debug\Exercicio_8.exe
+C:\Users\luiza\source\repos\Exercicio_8\Exercicio_8\obj\Debug\Exercicio_8.pdb
+C:\Users\luiza\OneDrive\Área de Trabalho\Exercicios em Csharp\Nova pasta\Exercicio_8\Exercicio_8\bin\Debug\Exercicio_8.exe.config
+C:\Users\luiza\OneDrive\Área de Trabalho\Exercicios em Csharp\Nova pasta\Exercicio_8\Exercicio_8\bin\Debug\Exercicio_8.exe
+C:\Users\luiza\OneDrive\Área de Trabalho\Exercicios em Csharp\Nova pasta\Exercicio_8\Exercicio_8\bin\Debug\Exercicio_8.pdb
+C:\Users\luiza\OneDrive\Área de Trabalho\Exercicios em Csharp\Nova pasta\Exercicio_8\Exercicio_8\obj\Debug\Exercicio_8.csproj.AssemblyReference.cache
+C:\Users\luiza\OneDrive\Área de Trabalho\Exercicios em Csharp\Nova pasta\Exercicio_8\Exercicio_8\obj\Debug\Exercicio_8.exe.config
+C:\Users\luiza\OneDrive\Área de Trabalho\Exercicios em Csharp\Nova pasta\Exercicio_8\Exercicio_8\obj\Debug\Exercicio_8.csproj.CoreCompileInputs.cache
+C:\Users\luiza\OneDrive\Área de Trabalho\Exercicios em Csharp\Nova pasta\Exercicio_8\Exercicio_8\obj\Debug\Exercicio_8.exe
+C:\Users\luiza\OneDrive\Área de Trabalho\Exercicios em Csharp\Nova pasta\Exercicio_8\Exercicio_8\obj\Debug\Exercicio_8.pdb
