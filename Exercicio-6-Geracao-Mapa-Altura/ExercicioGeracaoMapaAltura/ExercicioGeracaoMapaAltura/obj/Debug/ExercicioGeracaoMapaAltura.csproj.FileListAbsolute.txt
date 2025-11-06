@@ -1,0 +1,8 @@
+C:\Users\luiza\source\repos\ExercicioGeracaoMapaAltura\ExercicioGeracaoMapaAltura\bin\Debug\ExercicioGeracaoMapaAltura.exe.config
+C:\Users\luiza\source\repos\ExercicioGeracaoMapaAltura\ExercicioGeracaoMapaAltura\bin\Debug\ExercicioGeracaoMapaAltura.exe
+C:\Users\luiza\source\repos\ExercicioGeracaoMapaAltura\ExercicioGeracaoMapaAltura\bin\Debug\ExercicioGeracaoMapaAltura.pdb
+C:\Users\luiza\source\repos\ExercicioGeracaoMapaAltura\ExercicioGeracaoMapaAltura\obj\Debug\ExercicioGeracaoMapaAltura.csproj.AssemblyReference.cache
+C:\Users\luiza\source\repos\ExercicioGeracaoMapaAltura\ExercicioGeracaoMapaAltura\obj\Debug\ExercicioGeracaoMapaAltura.csproj.CoreCompileInputs.cache
+C:\Users\luiza\source\repos\ExercicioGeracaoMapaAltura\ExercicioGeracaoMapaAltura\obj\Debug\ExercicioGeracaoMapaAltura.exe
+C:\Users\luiza\source\repos\ExercicioGeracaoMapaAltura\ExercicioGeracaoMapaAltura\obj\Debug\ExercicioGeracaoMapaAltura.pdb
+C:\Users\luiza\source\repos\ExercicioGeracaoMapaAltura\ExercicioGeracaoMapaAltura\obj\Debug\ExercicioGeracaoMapaAltura.exe.config
