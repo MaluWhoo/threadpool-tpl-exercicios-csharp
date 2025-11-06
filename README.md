@@ -11,10 +11,9 @@ Cada pasta contém a implementação de um exercício específico:
 - [Exercício 3 - Simulador de Partículas](./Exercicio-3-Simulador-Particulas/README.md)
 - [Exercício 4 - Contador de Inimigos em Alcance](./Exercicio-4-Contador-Inimigo/README.md)
 - [Exercício 5 - Atualização de Bônus (Buffs)](./Exercicio-5-Atualizacao-Bonus-Buffs/README.md)
-
-- **Exercicio-6/** - Geração de Mapa de Altura
-- **Exercicio-7/** - Decaimento de Itens no Inventário
-- **Exercicio-8/** - Inicialização de Sistemas com Parallel.Invoke
+- [Exercicio 6  - Geração de Mapa de Altura](./Exercicio-6-Geracao-Mapa-Altura/README.md)
+- [Exercicio 7 - Decaimento de Itens no Inventário](Exercicio-7-Decaimento-Itens-Inventario/README.md)
+- [Exercicio 8 - Inicialização de Sistemas com Parallel.Invoke](Exercicio-8-Parallel-Invoke)
 
 ## 🛠️ Tecnologias Utilizadas
 
