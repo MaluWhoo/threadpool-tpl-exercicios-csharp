@@ -1,7 +1,7 @@
 # Exercício 5 - Atualização de Bônus (Buffs)
 
 ## 📋 Descrição
-Sistema de gerenciamento de bônus temporários (buffs) em um jogo, onde cada buff tem duração limitada e precisa ser atualizado a cada frame.
+Sistema de gerenciamento de bônus temporários (buffs) em um jogo. Uso de Parallel.ForEach para acelerar uma tarefa.
 
 ## 🎯 Objetivo
 Praticar `Parallel.ForEach` com remoção segura de elementos durante a iteração usando coleções concorrentes.
